@@ -13,7 +13,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Living_Faith/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2483">
+            <state relative-caret-position="48">
               <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
             </state>
           </provider>
@@ -31,7 +31,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="675" />
     <option name="width" value="698" />
     <option name="height" value="735" />
@@ -77,6 +77,9 @@
       </list>
     </option>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="ToolWindowManager">
     <frame x="675" y="0" width="698" height="735" extended-state="0" />
     <layout>
@@ -102,7 +105,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Living_Faith/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2483">
+        <state relative-caret-position="48">
           <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
